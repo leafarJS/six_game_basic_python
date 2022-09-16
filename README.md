@@ -1,3 +1,5 @@
+# Codigo basado en tutorial de freeCodeCamp Español
+
 # Notas para el juego de historias locas
 
 concatenar cadenas de caracteres.
